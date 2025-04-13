@@ -1,0 +1,6 @@
+**/__pycache__
+/datasets/
+**/results/
+**/wandb/
+**/data
+**/image_predictions/**
